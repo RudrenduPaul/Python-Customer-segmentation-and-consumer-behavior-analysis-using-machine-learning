@@ -1,6 +1,6 @@
 # Customer-segmentation-and-consumer-behavior-analysis
 
-(Please click on the file above named; Recommendation System - Paul.ipynb to see the detailed application of analytics and its interpretation)
+(Please click on the file above named; Consumer buying behavior - Paul.ipynb to see the detailed application of analytics and its interpretation)
 
 Brief Sanpshot: 
 
