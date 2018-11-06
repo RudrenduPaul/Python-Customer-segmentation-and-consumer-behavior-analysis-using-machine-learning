@@ -1,5 +1,9 @@
 # Customer-segmentation-and-consumer-behavior-analysis
 
+(Please click on the file above named; Recommendation System - Paul.ipynb to see the detailed application of analytics and its interpretation)
+
+Brief Sanpshot: 
+
 Topic # 1:
 
 Segmenting consumer based buying behavior and applying 80/20 rule to identify top customers/products/geographic locations driving 80% of total $ sales
