@@ -54,11 +54,27 @@ Business Strategy:
 Customer segment # 1 & 2 have opportunities for growth and future expansion. As the retails industry is a saturated industry, hence customer segment # 3 may already be dominated by other retailers so our client can try to increaese sales in the 2 other cutomer segments (# 1 & 2) through suitable competitive positioning, pricing stratgey, cohesive sales & marketing efforts, promotions, bundling etc.
 
 
-# Buying behavior of customers within each cluster:
+### Buying behavior of customers within each cluster:
 
 ![image](https://user-images.githubusercontent.com/38769913/51401375-91c0af80-1b18-11e9-9eb9-be9fcc102d66.png)
 
 ![image](https://user-images.githubusercontent.com/38769913/51401293-60e07a80-1b18-11e9-8f6d-0f910b8e6d74.png)
+
+### Analysis:
+
+For all 3 customer segments: majority of customers are from Region 3. So Region is not a key factor to segment customers.
+
+Fresh: Segment # 2 makes significant purchases compared to other segments folloewed by Segment # 3
+
+Milk: Segment # 1 makes significant purchases compared to other segments
+
+Grocery: Segnment # 1 makes significant purchases compared to other segments
+
+Frozen: Segment # 2 makes significant purchases followed by Segment # 3
+
+Detergent_Paper: Segment # 1 is a major purchaser
+
+Delicassen: Segnment # 2 on average makes most purchases, followed by Segmnet # 1
 
 
 ## Snapshots of few Analysis: 
@@ -86,4 +102,8 @@ Customer segment # 1 & 2 have opportunities for growth and future expansion. As 
 
 ![image](https://user-images.githubusercontent.com/38769913/51400800-4954c200-1b17-11e9-8bdc-7f5d0cd58b89.png)
 
+### Analysis:
+UK alone results in 82% of total $ revenue which is expected for a UK based retailer.
 
+### Business Strategy:
+The senior management for the retail company should consider expanding to the other countries (fter UK) where they have significant sales such as Neatherland, EIRE, Germany & France for future geographic expansion.
