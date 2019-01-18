@@ -29,13 +29,14 @@ resulting in 80% of $ sales revenue.
 
 Data Source used: https://archive.ics.uci.edu/ml/datasets/online+retail
 
+## Customer segments based on buying behavior by applying k means clustering (unsupervised learning) algorithm :
 
 ### Elbow method to choose the optimal number of customer segments (clusters):
 
 ![image](https://user-images.githubusercontent.com/38769913/51401473-da786880-1b18-11e9-9f8e-3a79651f25f3.png)
 
 
-## Customer segments based on buying behavior by applying k means clustering (unsupervised learning) algorithm :
+### Customer segments:
 
 ![image](https://user-images.githubusercontent.com/38769913/51401411-aa30ca00-1b18-11e9-957d-5bd9342b9093.png)
 
