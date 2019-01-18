@@ -28,3 +28,24 @@ Apply 80/20 rule to identify the top 20%
 resulting in 80% of $ sales revenue.
 
 Data Source used: https://archive.ics.uci.edu/ml/datasets/online+retail
+
+
+Snapshots of few Analysis: 
+(Detailed analysis shown in Consumer buying behavior - Paul.ipynb file)
+
+
+
+
+
+
+
+
+### Top 10 countries by revenue
+
+![image](https://user-images.githubusercontent.com/38769913/51400833-5d98bf00-1b17-11e9-8f8a-2fed1fcee2e1.png)
+
+## Bottom 20 countries by revenue
+
+![image](https://user-images.githubusercontent.com/38769913/51400800-4954c200-1b17-11e9-8bdc-7f5d0cd58b89.png)
+
+
