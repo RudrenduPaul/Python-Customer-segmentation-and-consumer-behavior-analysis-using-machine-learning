@@ -2,7 +2,7 @@
 
 (Please click on the Consumer buying behavior - Paul.ipynb above to see the detailed application of analytics and its interpretation)
 
-Brief Sanpshot: 
+Brief Snapshot: 
 
 Topic # 1:
 
